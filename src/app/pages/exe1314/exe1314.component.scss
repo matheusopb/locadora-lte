@@ -1,0 +1,39 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 0.1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+        "image"
+        "rodapé";
+    height: 100%;
+}
+.image {
+    grid-area: image;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+.rodapé {
+    grid-area: rodapé;
+}
+.Titulo {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    text-decoration: dashed;
+    font-weight: 600;
+    font-size: medium;
+}
+.genero {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    font-weight: 300;
+    font-size: smaller;
+}

@@ -1,0 +1,274 @@
+﻿{
+   "filmes": [
+      {
+         "nome": "Víuva Negra",
+         "ano": "2021",
+         "diretor": "Cate Shortland",
+         "genero": "Ação",
+         "descricao": "Em Viúva Negra, acompanhamos a vida de Natasha Romanoff (Scarlett Johansson) após os eventos de Guerra Civil. Se escondendo do governo norte-americano devido a sua aliança com o time do Capitão América, Natasha ainda precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, ela terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.",
+         "poster": "https://lumiere-a.akamaihd.net/v1/images/1920x1080_logo_d3a5a5f4.png",
+         "atores": "Scarlett Johansson, Florence Pugh, Rachel Weisz"
+      },
+      {
+         "nome": "O Diário da Princesa",
+         "ano": "2001",
+         "diretor": "Garry Marshall",
+         "genero": "Comédia",
+         "descricao": "Mia (Anne Hathaway) é uma garota de 15 anos que vive com sua mãe (Caroline Goodall) em Manhattan e repentinamente descobre que seu pai é na verdade o Príncipe de Genovia, um pequeno país europeu. Ela recebe então a visita de sua avó recém-descoberta (Julie Andrews), que passa a lhe dar aulas de etiqueta, ensinando-a como se deve portar uma princesa. Mas quando se aproxima a data de seu aniversário ela precisa definir que caminho pretende tomar em sua vida: tornar-se uma princesa e se mudar para Genovia ou permencer em Manhattan morando com sua mãe",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/e/e8/The_Princess_Diaries.jpg",
+         "atores": "Julie Andrews, Anne Hathaway, Hector Elizondo"
+      },
+      {
+         "nome": "Luca",
+         "ano": "2021",
+         "diretor": "Enrico Casarosa",
+         "genero": "Aventura",
+         "descricao": "Luca vive aventuras com seu novo melhor amigo, mas a diversão é ameaçada por um segredo: seu amigo é um monstro marinho de outro mundo que fica abaixo da superfície da água.",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/2/24/Luca_%28Filme_de_2021_%E2%80%93_Novo_p%C3%B4ster%29.png",
+         "atores": "Jacob Tremblay, Jack Dylan Grazer, Emma Berman"
+      },
+      {
+         "nome": "Titanic",
+         "ano": "1997",
+         "diretor": "James Cameron",
+         "genero": "Romance",
+         "descricao": "Em 1912, Rose, com então 17 anos, embarca no navio em Southampton como uma passageira da primeira classe junto com seu noivo, Cal, filho de uma magnata do aço de Pittsburgh, e sua mãe, Ruth DeWitt Bukater. Ruth salienta a importância do casamento de Rose, já que ele vai resolver os secretos problemas financeiros dos DeWitt Bukater. Perturbada pelo casamento, Rose considera se suicidar ao tentar pular do navio. Um passageiro da terceira classe, chamado Jack Dawson, a faz mudar de ideia. Jack e Rose desenvolvem uma amizade e vivem um romance",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Titanic_poster.jpg/250px-Titanic_poster.jpg",
+         "atores": "Leonardo DiCaprio, Kate Winslet,Billy Zane"
+      },
+      {
+         "nome": "Um Sonho Possível",
+         "ano": "2009",
+         "diretor": "John Lee Hancock",
+         "genero": "Drama biográfico",
+         "descricao": "Michael Oher (Quinton Aaron) era um jovem negro, filho de uma mãe viciada e não tinha onde morar. Com boa vocação para os esportes, um dia ele foi avistado pela família de Leigh Anne Tuohy (Sandra Bullock), andando em direção ao estádio da escola para poder dormir longe da chuva. Ao ser convidado para passar uma noite na casa dos milionários, Michael não tinha ideia que aquele dia iria mudar para sempre a sua vida, tornando-se mais tarde um astro do futebol americano",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/d/d8/Blind_side.jpg",
+         "atores": "Sandra Bullock, Quinton Aaron, Tim McGraw"
+      },
+      {
+         "nome": "Coringa",
+         "ano": "2019",
+         "diretor": "Todd Phillips",
+         "genero": "Suspense",
+         "descricao": "Em Coringa, Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante.",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/63/Joker_%282019%29.jpg/250px-Joker_%282019%29.jpg",
+         "atores": "Joaquin Phoenix, Robert De Niro, Zazie Beetz"
+      },
+      {
+         "nome": "Avatar",
+         "ano": "2009",
+         "diretor": "James Cameron",
+         "genero": "Aventura",
+         "descricao": "Jake Sully (Sam Worthington) ficou paraplégico após um combate na Terra. Ele é selecionado para participar do programa Avatar em substituição ao seu irmão gêmeo, falecido. Jake viaja a Pandora, uma lua extraterrestre, onde encontra diversas e estranhas formas de vida. O local é também o lar dos Na'Vi, seres humanóides que, apesar de primitivos, possuem maior capacidade física que os humanos. Os Na'Vi têm três metros de altura, pele azulada e vivem em paz com a natureza de Pandora. Os humanos desejam explorar a lua, de forma a encontrar metais valiosos, o que faz com que os Na'Vi aperfeiçoem suas habilidades guerreiras. Como são incapazes de respirar o ar de Pandora, os humanos criam seres híbridos chamados de Avatar. Eles são controlados por seres humanos, através de uma tecnologia que permite que seus pensamentos sejam aplicados no corpo do Avatar. Desta forma Jake pode novamente voltar à ativa, com seu Avatar percorrendo as florestas de Pandora e liderando soldados. Até conhecer Neytiri (Zoe Saldana), uma feroz Na'Vi que conhece acidentalmente e que serve de tutora para sua ambientação na civilização alienígena",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/b/b0/Avatar-Teaser-Poster.jpg",
+         "atores": "Sam Worthington, Zoë Saldaña, Sigourney Weaver"
+      },
+      {
+         "nome": "Parasita",
+         "ano": "2019",
+         "diretor": "Bong Joon Ho",
+         "genero": " Suspense",
+         "descricao": "Em Parasita, toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.",
+         "poster": "https://br.web.img3.acsta.net/c_310_420/pictures/19/10/04/19/58/1046648.jpg",
+         "atores": "Song Kang-Ho, Woo-sik Choi, Park So-Dam"
+      },
+      {
+         "nome": "As aventuras de Pi",
+         "ano": "2012",
+         "diretor": "Ang Lee",
+         "genero": "Drama",
+         "descricao": "Pi Patel (Suraj Sharma) é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+         "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/91/30/40/20328542.jpg",
+         "atores": "Suraj Sharma, Irrfan Khan, Adil Hussain"
+      },
+      {
+         "nome": "Os Incríveis 2",
+         "ano": "2018",
+         "diretor": "Brad Bird",
+         "genero": "Aventura",
+         "descricao": "Quando Helena Pêra é chamada para voltar a lutar contra o crime como a super-heroína Mulher-Elástica, cabe ao seu marido, Roberto, a tarefa de cuidar das crianças, especialmente o bebê Zezé. O que ele não esperava era que o caçula da família também tivesse superpoderes, que surgem sem qualquer controle.",
+         "poster": "https://media.fstatic.com/5_vZfFKxIUglBSuHYRdSXKCaics=/290x478/smart/media/movies/covers/2018/06/incredibles_two_ver32_Lj6nujj.jpg",
+         "atores": "Craig T. Nelson, Holly Hunter, Sarah Vowell"
+      },
+      {
+         "nome": "Víuva Negra",
+         "ano": "2021",
+         "diretor": "Cate Shortland",
+         "genero": "Ação",
+         "descricao": "Em Viúva Negra, acompanhamos a vida de Natasha Romanoff (Scarlett Johansson) após os eventos de Guerra Civil. Se escondendo do governo norte-americano devido a sua aliança com o time do Capitão América, Natasha ainda precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, ela terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.",
+         "poster": "https://lumiere-a.akamaihd.net/v1/images/1920x1080_logo_d3a5a5f4.png",
+         "atores": "Scarlett Johansson, Florence Pugh, Rachel Weisz"
+      },
+      {
+         "nome": "O Diário da Princesa",
+         "ano": "2001",
+         "diretor": "Garry Marshall",
+         "genero": "Comédia",
+         "descricao": "Mia (Anne Hathaway) é uma garota de 15 anos que vive com sua mãe (Caroline Goodall) em Manhattan e repentinamente descobre que seu pai é na verdade o Príncipe de Genovia, um pequeno país europeu. Ela recebe então a visita de sua avó recém-descoberta (Julie Andrews), que passa a lhe dar aulas de etiqueta, ensinando-a como se deve portar uma princesa. Mas quando se aproxima a data de seu aniversário ela precisa definir que caminho pretende tomar em sua vida: tornar-se uma princesa e se mudar para Genovia ou permencer em Manhattan morando com sua mãe",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/e/e8/The_Princess_Diaries.jpg",
+         "atores": "Julie Andrews, Anne Hathaway, Hector Elizondo"
+      },
+      {
+         "nome": "Luca",
+         "ano": "2021",
+         "diretor": "Enrico Casarosa",
+         "genero": "Aventura",
+         "descricao": "Luca vive aventuras com seu novo melhor amigo, mas a diversão é ameaçada por um segredo: seu amigo é um monstro marinho de outro mundo que fica abaixo da superfície da água.",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/2/24/Luca_%28Filme_de_2021_%E2%80%93_Novo_p%C3%B4ster%29.png",
+         "atores": "Jacob Tremblay, Jack Dylan Grazer, Emma Berman"
+      },
+      {
+         "nome": "Titanic",
+         "ano": "1997",
+         "diretor": "James Cameron",
+         "genero": "Romance",
+         "descricao": "Em 1912, Rose, com então 17 anos, embarca no navio em Southampton como uma passageira da primeira classe junto com seu noivo, Cal, filho de uma magnata do aço de Pittsburgh, e sua mãe, Ruth DeWitt Bukater. Ruth salienta a importância do casamento de Rose, já que ele vai resolver os secretos problemas financeiros dos DeWitt Bukater. Perturbada pelo casamento, Rose considera se suicidar ao tentar pular do navio. Um passageiro da terceira classe, chamado Jack Dawson, a faz mudar de ideia. Jack e Rose desenvolvem uma amizade e vivem um romance",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Titanic_poster.jpg/250px-Titanic_poster.jpg",
+         "atores": "Leonardo DiCaprio, Kate Winslet,Billy Zane"
+      },
+      {
+         "nome": "Um Sonho Possível",
+         "ano": "2009",
+         "diretor": "John Lee Hancock",
+         "genero": "Drama biográfico",
+         "descricao": "Michael Oher (Quinton Aaron) era um jovem negro, filho de uma mãe viciada e não tinha onde morar. Com boa vocação para os esportes, um dia ele foi avistado pela família de Leigh Anne Tuohy (Sandra Bullock), andando em direção ao estádio da escola para poder dormir longe da chuva. Ao ser convidado para passar uma noite na casa dos milionários, Michael não tinha ideia que aquele dia iria mudar para sempre a sua vida, tornando-se mais tarde um astro do futebol americano",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/d/d8/Blind_side.jpg",
+         "atores": "Sandra Bullock, Quinton Aaron, Tim McGraw"
+      },
+      {
+         "nome": "Coringa",
+         "ano": "2019",
+         "diretor": "Todd Phillips",
+         "genero": "Suspense",
+         "descricao": "Em Coringa, Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante.",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/63/Joker_%282019%29.jpg/250px-Joker_%282019%29.jpg",
+         "atores": "Joaquin Phoenix, Robert De Niro, Zazie Beetz"
+      },
+      {
+         "nome": "Avatar",
+         "ano": "2009",
+         "diretor": "James Cameron",
+         "genero": "Aventura",
+         "descricao": "Jake Sully (Sam Worthington) ficou paraplégico após um combate na Terra. Ele é selecionado para participar do programa Avatar em substituição ao seu irmão gêmeo, falecido. Jake viaja a Pandora, uma lua extraterrestre, onde encontra diversas e estranhas formas de vida. O local é também o lar dos Na'Vi, seres humanóides que, apesar de primitivos, possuem maior capacidade física que os humanos. Os Na'Vi têm três metros de altura, pele azulada e vivem em paz com a natureza de Pandora. Os humanos desejam explorar a lua, de forma a encontrar metais valiosos, o que faz com que os Na'Vi aperfeiçoem suas habilidades guerreiras. Como são incapazes de respirar o ar de Pandora, os humanos criam seres híbridos chamados de Avatar. Eles são controlados por seres humanos, através de uma tecnologia que permite que seus pensamentos sejam aplicados no corpo do Avatar. Desta forma Jake pode novamente voltar à ativa, com seu Avatar percorrendo as florestas de Pandora e liderando soldados. Até conhecer Neytiri (Zoe Saldana), uma feroz Na'Vi que conhece acidentalmente e que serve de tutora para sua ambientação na civilização alienígena",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/b/b0/Avatar-Teaser-Poster.jpg",
+         "atores": "Sam Worthington, Zoë Saldaña, Sigourney Weaver"
+      },
+      {
+         "nome": "Parasita",
+         "ano": "2019",
+         "diretor": "Bong Joon Ho",
+         "genero": " Suspense",
+         "descricao": "Em Parasita, toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.",
+         "poster": "https://br.web.img3.acsta.net/c_310_420/pictures/19/10/04/19/58/1046648.jpg",
+         "atores": "Song Kang-Ho, Woo-sik Choi, Park So-Dam"
+      },
+      {
+         "nome": "As aventuras de Pi",
+         "ano": "2012",
+         "diretor": "Ang Lee",
+         "genero": "Drama",
+         "descricao": "Pi Patel (Suraj Sharma) é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+         "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/91/30/40/20328542.jpg",
+         "atores": "Suraj Sharma, Irrfan Khan, Adil Hussain"
+      },
+      {
+         "nome": "Os Incríveis 2",
+         "ano": "2018",
+         "diretor": "Brad Bird",
+         "genero": "Aventura",
+         "descricao": "Quando Helena Pêra é chamada para voltar a lutar contra o crime como a super-heroína Mulher-Elástica, cabe ao seu marido, Roberto, a tarefa de cuidar das crianças, especialmente o bebê Zezé. O que ele não esperava era que o caçula da família também tivesse superpoderes, que surgem sem qualquer controle.",
+         "poster": "https://media.fstatic.com/5_vZfFKxIUglBSuHYRdSXKCaics=/290x478/smart/media/movies/covers/2018/06/incredibles_two_ver32_Lj6nujj.jpg",
+         "atores": "Craig T. Nelson, Holly Hunter, Sarah Vowell"
+      },
+      {
+         "nome": "Víuva Negra",
+         "ano": "2021",
+         "diretor": "Cate Shortland",
+         "genero": "Ação",
+         "descricao": "Em Viúva Negra, acompanhamos a vida de Natasha Romanoff (Scarlett Johansson) após os eventos de Guerra Civil. Se escondendo do governo norte-americano devido a sua aliança com o time do Capitão América, Natasha ainda precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, ela terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.",
+         "poster": "https://lumiere-a.akamaihd.net/v1/images/1920x1080_logo_d3a5a5f4.png",
+         "atores": "Scarlett Johansson, Florence Pugh, Rachel Weisz"
+      },
+      {
+         "nome": "O Diário da Princesa",
+         "ano": "2001",
+         "diretor": "Garry Marshall",
+         "genero": "Comédia",
+         "descricao": "Mia (Anne Hathaway) é uma garota de 15 anos que vive com sua mãe (Caroline Goodall) em Manhattan e repentinamente descobre que seu pai é na verdade o Príncipe de Genovia, um pequeno país europeu. Ela recebe então a visita de sua avó recém-descoberta (Julie Andrews), que passa a lhe dar aulas de etiqueta, ensinando-a como se deve portar uma princesa. Mas quando se aproxima a data de seu aniversário ela precisa definir que caminho pretende tomar em sua vida: tornar-se uma princesa e se mudar para Genovia ou permencer em Manhattan morando com sua mãe",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/e/e8/The_Princess_Diaries.jpg",
+         "atores": "Julie Andrews, Anne Hathaway, Hector Elizondo"
+      },
+      {
+         "nome": "Luca",
+         "ano": "2021",
+         "diretor": "Enrico Casarosa",
+         "genero": "Aventura",
+         "descricao": "Luca vive aventuras com seu novo melhor amigo, mas a diversão é ameaçada por um segredo: seu amigo é um monstro marinho de outro mundo que fica abaixo da superfície da água.",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/2/24/Luca_%28Filme_de_2021_%E2%80%93_Novo_p%C3%B4ster%29.png",
+         "atores": "Jacob Tremblay, Jack Dylan Grazer, Emma Berman"
+      },
+      {
+         "nome": "Titanic",
+         "ano": "1997",
+         "diretor": "James Cameron",
+         "genero": "Romance",
+         "descricao": "Em 1912, Rose, com então 17 anos, embarca no navio em Southampton como uma passageira da primeira classe junto com seu noivo, Cal, filho de uma magnata do aço de Pittsburgh, e sua mãe, Ruth DeWitt Bukater. Ruth salienta a importância do casamento de Rose, já que ele vai resolver os secretos problemas financeiros dos DeWitt Bukater. Perturbada pelo casamento, Rose considera se suicidar ao tentar pular do navio. Um passageiro da terceira classe, chamado Jack Dawson, a faz mudar de ideia. Jack e Rose desenvolvem uma amizade e vivem um romance",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Titanic_poster.jpg/250px-Titanic_poster.jpg",
+         "atores": "Leonardo DiCaprio, Kate Winslet,Billy Zane"
+      },
+      {
+         "nome": "Um Sonho Possível",
+         "ano": "2009",
+         "diretor": "John Lee Hancock",
+         "genero": "Drama biográfico",
+         "descricao": "Michael Oher (Quinton Aaron) era um jovem negro, filho de uma mãe viciada e não tinha onde morar. Com boa vocação para os esportes, um dia ele foi avistado pela família de Leigh Anne Tuohy (Sandra Bullock), andando em direção ao estádio da escola para poder dormir longe da chuva. Ao ser convidado para passar uma noite na casa dos milionários, Michael não tinha ideia que aquele dia iria mudar para sempre a sua vida, tornando-se mais tarde um astro do futebol americano",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/d/d8/Blind_side.jpg",
+         "atores": "Sandra Bullock, Quinton Aaron, Tim McGraw"
+      },
+      {
+         "nome": "Coringa",
+         "ano": "2019",
+         "diretor": "Todd Phillips",
+         "genero": "Suspense",
+         "descricao": "Em Coringa, Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante.",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/63/Joker_%282019%29.jpg/250px-Joker_%282019%29.jpg",
+         "atores": "Joaquin Phoenix, Robert De Niro, Zazie Beetz"
+      },
+      {
+         "nome": "Avatar",
+         "ano": "2009",
+         "diretor": "James Cameron",
+         "genero": "Aventura",
+         "descricao": "Jake Sully (Sam Worthington) ficou paraplégico após um combate na Terra. Ele é selecionado para participar do programa Avatar em substituição ao seu irmão gêmeo, falecido. Jake viaja a Pandora, uma lua extraterrestre, onde encontra diversas e estranhas formas de vida. O local é também o lar dos Na'Vi, seres humanóides que, apesar de primitivos, possuem maior capacidade física que os humanos. Os Na'Vi têm três metros de altura, pele azulada e vivem em paz com a natureza de Pandora. Os humanos desejam explorar a lua, de forma a encontrar metais valiosos, o que faz com que os Na'Vi aperfeiçoem suas habilidades guerreiras. Como são incapazes de respirar o ar de Pandora, os humanos criam seres híbridos chamados de Avatar. Eles são controlados por seres humanos, através de uma tecnologia que permite que seus pensamentos sejam aplicados no corpo do Avatar. Desta forma Jake pode novamente voltar à ativa, com seu Avatar percorrendo as florestas de Pandora e liderando soldados. Até conhecer Neytiri (Zoe Saldana), uma feroz Na'Vi que conhece acidentalmente e que serve de tutora para sua ambientação na civilização alienígena",
+         "poster": "https://upload.wikimedia.org/wikipedia/pt/b/b0/Avatar-Teaser-Poster.jpg",
+         "atores": "Sam Worthington, Zoë Saldaña, Sigourney Weaver"
+      },
+      {
+         "nome": "Parasita",
+         "ano": "2019",
+         "diretor": "Bong Joon Ho",
+         "genero": " Suspense",
+         "descricao": "Em Parasita, toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.",
+         "poster": "https://br.web.img3.acsta.net/c_310_420/pictures/19/10/04/19/58/1046648.jpg",
+         "atores": "Song Kang-Ho, Woo-sik Choi, Park So-Dam"
+      },
+      {
+         "nome": "As aventuras de Pi",
+         "ano": "2012",
+         "diretor": "Ang Lee",
+         "genero": "Drama",
+         "descricao": "Pi Patel (Suraj Sharma) é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+         "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/91/30/40/20328542.jpg",
+         "atores": "Suraj Sharma, Irrfan Khan, Adil Hussain"
+      },
+      {
+         "nome": "Os Incríveis 2",
+         "ano": "2018",
+         "diretor": "Brad Bird",
+         "genero": "Aventura",
+         "descricao": "Quando Helena Pêra é chamada para voltar a lutar contra o crime como a super-heroína Mulher-Elástica, cabe ao seu marido, Roberto, a tarefa de cuidar das crianças, especialmente o bebê Zezé. O que ele não esperava era que o caçula da família também tivesse superpoderes, que surgem sem qualquer controle.",
+         "poster": "https://media.fstatic.com/5_vZfFKxIUglBSuHYRdSXKCaics=/290x478/smart/media/movies/covers/2018/06/incredibles_two_ver32_Lj6nujj.jpg",
+         "atores": "Craig T. Nelson, Holly Hunter, Sarah Vowell"
+      }
+   ]
+}

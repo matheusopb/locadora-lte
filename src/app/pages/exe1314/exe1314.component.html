@@ -1,0 +1,20 @@
+
+  <div class="input-group input-group-sm px-2 py-3 " >
+    <input type="text" class="form-control" [(ngModel)]="search" placeholder="Pesquise por nome, genero ator ou mesmo diretor..."
+     name="search" id="filmes" (ngModelChange)="this.searchEvent.next($event)" >
+    <span class="input-group-append">
+      <button type="button" class="btn btn-info btn-flat"> <i class="fas fa-search"></i></button>
+    </span>
+  </div>
+
+<mat-grid-list [cols]="cols" rowHeight="2:3" gutterSize="0.25rem">
+    <mat-grid-tile *ngFor="let filme of filterFilmes">
+        <div class="container">
+            <div class="image" [ngStyle]="{ 'background-image': 'url(' + filme.poster + ')'}"> </div>
+            <div class="rodapé">
+                <div class="Titulo">{{filme.nome}}</div>
+                <div class="genero">{{filme.genero}}</div>
+            </div>
+        </div>
+    </mat-grid-tile>
+</mat-grid-list>
